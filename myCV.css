@@ -1,0 +1,36 @@
+body {
+    background-image: url("background.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 100%; }
+    h1 {
+        font-size: 350%;
+        font-family: Arial Black, Verdana, sans-serif;
+        text-align: left;
+      }
+      nav {
+        list-style-type: disc;
+        width: 350px;
+        margin: 0px 0px 20px 270px;
+        font: bold 1em Arial, Tahome, sans-serif;
+        }
+      img {
+          border: 8px solid;
+          border-radius: 160px;
+          position: relative;
+          float: left;
+          box-shadow: 0 0 20px rgb(149, 46, 153);
+      }
+      main {
+        text-align:justify;
+        width: 700px;
+        font-size: 25px;
+      }
+      .list {
+        list-style: disc; 
+        font-size: 20px;     
+        text-shadow: 0 1px 0 rgba(255,255,255,.5);
+      }
+      pre {
+        font-size: 15px;  
+        background-color: seashell;
+      }
